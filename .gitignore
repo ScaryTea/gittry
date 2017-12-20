@@ -1,0 +1,6 @@
+#comments
+
+#*.[oas] - files with .a or .o or .s extension
+*.out
+*~
+!main_output.out
