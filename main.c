@@ -2,6 +2,7 @@
 
 void a(void) {
 	printf("a\n");
+	printf("b\n");
 }
 
 int main() {
